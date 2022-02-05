@@ -1,19 +1,8 @@
-# Hugo Example
+# 杨家宾的个人博客
 
-This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed to Vercel with zero configuration.
-
-## Deploy Your Own
-
-Deploy your own Hugo project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hugo&template=hugo)
-
-_Live Example: https://hugo-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](https://gohugo.io/commands/) to initialize the project:
-
-```shell
-$ hugo new site project-name
-```
+使用工具：
+- [Hugo](https://gohugo.io/)
+- [GitHub](https://github.com/)
+- [Vercel](https://vercel.com/)
+- [Cloudflare](https://www.cloudflare.com/zh-cn/)
+- [freenom](https://www.freenom.com/zh/index.html?lang=zh)
